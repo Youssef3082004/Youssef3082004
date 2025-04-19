@@ -22,7 +22,7 @@ Hi, I'm Youssef Mustafa Gamal
 <picture> <img align="right" src="https://github.com/youssef969/youssef969/blob/0cdfec46b73672af2b246f4e069cfa0b5212456a/Developer_activity.gif?raw=true" width = 250px></picture>
 
 
-🏫 **I am a student** at [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) in [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
+🏫 **I am a student** at the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
 
 📚 Specializing in **Machine Learning** and **Developing Cross-Platform Apps**  
 
