@@ -111,7 +111,6 @@ Hi, I'm Youssef Mustafa Gamal
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef969&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
   <br></br>
-
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef969&theme=onedark&hide_border=false" /> 
 
 </td>
