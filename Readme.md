@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Mustafa Gamal</h1>
-<h3 align="center">A Croos-platform App Developer & ML Engineer from Egypt</h3>
+<h3 align="center">A Croos-platform App Developer & ML Engineer</h3>
+
 
 
 
