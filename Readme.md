@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Youssef Mustafa Gamal
 <picture>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="35">
 </picture>  
 </h1>
 
@@ -61,7 +61,7 @@ Hi, I'm Youssef Mustafa Gamal
 
 <br>
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"></picture> My Tech Stack & Skills
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
 
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -104,7 +104,7 @@ Hi, I'm Youssef Mustafa Gamal
 <br><br>
 
 
-## <picture><img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"></picture> My Profile Statistics
+## <picture><img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif?raw=true" width=5% valign="bottom"></picture> My Profile Statistics
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
