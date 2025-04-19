@@ -43,8 +43,8 @@
 
 
 # 📝 My Profile statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef969&show_icons=true&locale=en&layout=compact" alt="youssef969" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef969&show_icons=true&locale=en" alt="youssef969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef969&" alt="youssef969" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef969&show_icons=true&locale=en&layout=compact" alt="youssef969" /></p>
