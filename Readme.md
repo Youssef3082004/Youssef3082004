@@ -23,10 +23,15 @@ Hi, I'm Youssef Mustafa Gamal
 
 
 🏫 **I am a student** at [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) in [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
+
 📚 Specializing in **Machine Learning** and **Developing Cross-Platform Apps**  
+
 🤖 Driven by a strong interest in exploring and utilizing AI technologies to develop smart solutions for practical challenges.  
-💡 Always eager to expand my knowledge and keep up with the latest breakthroughs in these ever-evolving fields.  
+
+💡 Always eager to expand my knowledge and keep up with the latest breakthroughs in these ever-evolving fields. 
+
 🚀 Enthusiastic about leveraging AI to build innovative and meaningful applications across various platforms.
+
 🌱 I’m currently learning **Deep learning and NLP**
 
 <br>
