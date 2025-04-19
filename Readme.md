@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Youssef Mustafa Gamal</h1>
-<h3 align="center">A Croos-platform App Developer & ML Engineer</h3>
-
-
+<h1 align="center">
+Hi, I'm Youssef Mustafa Gamal
+<picture>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</picture>  
+</h1>
 
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=youssef969" alt="youssef969" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=7e57c2&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Specialist;Croos+-+App+platform+developer;" alt="Typing SVG" />
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/youssef969?tab=repositories)
-- 📫 How to reach me: **awadallayossef@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/13E4t-aumWLctbAmZuxlZnxTC8FyQtOvl/view?usp=sharing)
 
+
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About me
+
+
+<picture> <img align="right" src="https://github.com/youssef969/youssef969/blob/0cdfec46b73672af2b246f4e069cfa0b5212456a/Developer_activity.gif?raw=true" width = 250px></picture>
+
+
+🏫 **I am a student** at [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) in [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
+📚 Specializing in **Machine Learning** and **Developing Cross-Platform Apps**  
+🤖 Driven by a strong interest in exploring and utilizing AI technologies to develop smart solutions for practical challenges.  
+💡 Always eager to expand my knowledge and keep up with the latest breakthroughs in these ever-evolving fields.  
+🚀 Enthusiastic about leveraging AI to build innovative and meaningful applications across various platforms.
+🌱 I’m currently learning **Deep learning and NLP**
+
+<br>
 
 
 ## 🧠 Coding Profiles
@@ -27,7 +43,7 @@
 </a>
 </p>
 
-
+<br>
 
 ## 💬 My Social Media
 
@@ -43,8 +59,9 @@
 </a>
 </p>
 
+<br>
 
-## 💻 Tech Stack
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"></picture> My Tech Stack & Skills
 
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -70,21 +87,48 @@
 </p>
 
 
-
-
-
-## 📝 My Profile Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef969&" alt="youssef969" />
+<br><br>
+<h2 align="left">📝 My Projects and Contact Information</h2>
+<p align="left">
+  👨‍💻 All of my projects are available at <a href="https://github.com/youssef969?tab=repositories">GitHub Repositories</a>.
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef969&show_icons=true&locale=en" alt="youssef969" />
+<p align="left">
+  📫 How to reach me: <strong>awadallayossef@gmail.com</strong>.
 </p>
 
+<p align="left">
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/13E4t-aumWLctbAmZuxlZnxTC8FyQtOvl/view?usp=sharing" target="_blank">Resume</a>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef969&show_icons=true&locale=en&layout=compact" alt="youssef969" />
+<br><br>
+
+
+## <picture><img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"></picture> My Profile Statistics
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMaherAbdRabbo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
+  <br></br>
+
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherAbdRabbo&theme=onedark&hide_border=false" /> 
+
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMaherAbdRabbo&langs_count=10&show_icons=true&locale=en&theme=onedark"/>
+  <br><br>
+
+  <a href="https://github.com/AhmedMaherAbdRabbo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherAbdRabbo&theme=onedark&hide_border=true" width="520" alt="profile summary"/></a>
+
+</td>
+</tr>
+</table>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AhmedMaherAbdRabbo&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 </p>
