@@ -1,17 +1,17 @@
-<h1 align="center">
-Hi, I'm Youssef Mustafa Gamal
-<picture>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="35">
-</picture>  
-</h1>
+![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Mustafa&fontColor=ffffff&animation=fadeIn)
 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=7e57c2&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Specialist;Croos+-+App+platform+developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Specialist;Croos+-+App+platform+developer;" alt="Typing SVG" />
   </a>
 </p>
 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssef969&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="youssef969" />
+</p>
 
 
 
@@ -19,7 +19,7 @@ Hi, I'm Youssef Mustafa Gamal
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About me
 
 
-<picture> <img align="right" src="https://github.com/youssef969/youssef969/blob/0cdfec46b73672af2b246f4e069cfa0b5212456a/Developer_activity.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="Developer_activity.gif" width = 250px></picture>
 
 
 🏫 **I am an undergraduate student** at the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
@@ -69,21 +69,11 @@ Hi, I'm Youssef Mustafa Gamal
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
 
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-%23000000?style=plastic&logo=android&link=https%3A%2F%2Fdeveloper.android.com)
+
+<div align="center"> <!-- Programming & Data Science --> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/dart-3670A0?style=for-the-badge&logo=dart&logoColor=00c4b3" /> 
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <!-- Mobile & Frontend --> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" /> 
+<!--img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /--> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <!-- Backend & Hosting --> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" /> <!--img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" /--> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <!-- Databases --> <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <!-- Version Control --> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /> </div>
 
   <p align="center" style="margin-top: 0; padding-top: 0;">
   <a href="https://flet.dev" target="_blank">
