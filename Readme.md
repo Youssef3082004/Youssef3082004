@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef969&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="youssef969" />
+  <img src="https://komarev.com/ghpvc/?username=Youssef3082004&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Youssef3082004" />
 </p>
 
 
@@ -77,7 +77,7 @@
 
   <p align="center" style="margin-top: 0; padding-top: 0;">
   <a href="https://flet.dev" target="_blank">
-    <img src="https://github.com/youssef969/youssef969/blob/main/flet.png?raw=true" alt="Flet Logo" height="40">
+    <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" alt="Flet Logo" height="40">
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 <br><br>
 <h2 align="left">📝 My Projects and Contact Information</h2>
 <p align="left">
-  👨‍💻 All of my projects are available at <a href="https://github.com/youssef969?tab=repositories">GitHub Repositories</a>.
+  👨‍💻 All of my projects are available at <a href="https://github.com/Youssef3082004?tab=repositories">GitHub Repositories</a>.
 </p>
 
 <p align="left">
@@ -104,25 +104,25 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef969&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef969&theme=onedark&hide_border=false" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef3082004&theme=onedark&hide_border=false" /> 
 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef969&langs_count=10&show_icons=true&locale=en&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&langs_count=10&show_icons=true&locale=en&theme=onedark"/>
   <br><br>
 
-  <a href="https://github.com/youssef969"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef969&theme=onedark&hide_border=true" width="520" alt="profile summary"/></a>
+  <a href="https://github.com/Youssef3082004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef3082004&theme=onedark&hide_border=true" width="520" alt="profile summary"/></a>
 
 </td>
 </tr>
 </table>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=youssef969&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Youssef3082004&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
