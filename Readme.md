@@ -114,7 +114,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=onedark&border_radius=5&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=onedark&border_radius=5&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Stats"  width="100%"/>
   </a>
 </p>
 
