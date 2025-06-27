@@ -114,7 +114,7 @@
         </a>
       </td>
       <td style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="300px" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="300px" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@
 </table>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Youssef3082004&theme=dracula&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Youssef3082004&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
