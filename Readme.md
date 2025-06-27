@@ -114,7 +114,7 @@
         </a>
       </td>
       <td style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=Youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="300px" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="300px" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
