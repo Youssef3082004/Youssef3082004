@@ -110,19 +110,19 @@
     <tr>
       <td style="border: none;">
         <a href="https://github.com/Youssef3082004">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef3082004&theme=dracula&hide_border=true" width="300px" alt="Profile Summary" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef3082004&theme=dracula&hide_border=true" width="700px" alt="Profile Summary" />
         </a>
       </td>
       <td style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="300px" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="700px" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=dracula&hide_border=true&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" width="300px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=dracula&hide_border=true&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" width="700px" alt="GitHub Stats" />
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&langs_count=10&show_icons=true&locale=en&theme=dracula&hide_border=true" width="300px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&langs_count=10&show_icons=true&locale=en&theme=dracula&hide_border=true" width="700px" alt="Top Languages" />
       </td>
     </tr>
   </table>
