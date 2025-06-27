@@ -66,7 +66,7 @@
 
 <br>
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg500bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg460bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
 
 
 
@@ -110,19 +110,19 @@
     <tr>
       <td style="border: none;">
         <a href="https://github.com/Youssef3082004">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef3082004&theme=dracula&hide_border=true" width="500px" alt="Profile Summary" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef3082004&theme=dracula&hide_border=true" width="460px" alt="Profile Summary" />
         </a>
       </td>
       <td style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="500px" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="460px" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=dracula&hide_border=true&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" width="500px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=dracula&hide_border=true&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" width="460px" alt="GitHub Stats" />
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&langs_count=10&show_icons=true&locale=en&theme=dracula&hide_border=true" width="500px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&langs_count=10&show_icons=true&locale=en&theme=dracula&hide_border=true" width="460px" alt="Top Languages" />
       </td>
     </tr>
   </table>
