@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Mustafa&fontColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Awadalla&fontColor=ffffff&animation=fadeIn)
 
 
 <p align="center">
