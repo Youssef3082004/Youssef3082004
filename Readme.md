@@ -53,13 +53,13 @@
 ## 💬 My Social Media
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-mustafa-91a968284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <a href="https://www.linkedin.com/in/youssef-awadalla-91a968284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefmustafa" height="30" width="40" />
 </a>
-  <a href="https://www.facebook.com/youssef.awadalla.75" target="blank">
+  <a href="https://www.facebook.com/youssefawadalla232" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-  <a href="https://instagram.com/youssefmustafa232" target="blank">
+  <a href="https://instagram.com/youssefawadalla232" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
