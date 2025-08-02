@@ -93,7 +93,7 @@
 </p>
 
 <p align="left">
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/13E4t-aumWLctbAmZuxlZnxTC8FyQtOvl/view?usp=sharing" target="_blank">Resume</a>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/13OHMiGmXqLdehifrwLUGHKgmWm77AWD7/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
 <br><br>
