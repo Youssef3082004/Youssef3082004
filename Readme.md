@@ -76,14 +76,16 @@
 
 
 
-### 🐍 Programming Languages
+> ### 💻 Programming Languages
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
 </p>
 
 
-### 📊 Data Science & Machine Learning
+
+
+> ### 📊 Data Science & Machine Learning
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
@@ -93,7 +95,7 @@
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" /> 
 </p>
 
-### 📚 NLP & Language Processing  
+> ### 📚 NLP & Language Processing  
 <p align="center">
 <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
@@ -102,14 +104,14 @@
 
 
 
-### 🌐 Backend & APIs
+> ### 🌐 Backend & APIs
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> 
 
 </p>
 
 
-### 📱 Mobile & Frontend
+> ### 📱 Mobile & Frontend
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
@@ -123,7 +125,7 @@
 
 
 
-### ☁️ Backend & Hosting
+> ### ☁️ Backend Services
 <p align="center">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> 
@@ -131,14 +133,14 @@
 </p>
 
 
-### 🗄️ Databases
+> ### 🗄️ Databases
 <p align="center">
 <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </p>
 
 
-### 🛠️ Version Control
+> ### 🛠️ Version Control
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /> 
