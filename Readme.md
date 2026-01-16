@@ -88,6 +88,8 @@
 > ### 📊 Data Science & Machine Learning
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TensorFlow-ff7e00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
+</p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
@@ -174,33 +176,11 @@
 <td width="50%" align="center">
 
 
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
- 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com/?user=Youssef3082004&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com/?user=Youssef3082004"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com/?user=Youssef3082004" />
-</picture>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output3d/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output3d/profile-season-animate.svg" />
+    <img alt="User's 3D contribution graph" src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output3d/profile-south-season-animate.svg" />
+  </picture>
+</div>
