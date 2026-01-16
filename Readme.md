@@ -173,37 +173,34 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<!-- Profile Summary Card (Top of the Section) -->
-<div align="center">
-  <table cellspacing="0" cellpadding="0" style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <a href="https://github.com/Youssef3082004">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef3082004&theme=dracula&hide_border=true" width="460px" alt="Profile Summary" />
-        </a>
-      </td>
-      <td style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=youssef3082004&theme=dracula&hide_border=true&border_radius=5" width="460px" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&theme=dracula&hide_border=true&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" width="460px" alt="GitHub Stats" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&langs_count=10&show_icons=true&locale=en&theme=dracula&hide_border=true" width="460px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
-</td>
-</tr>
-</table>
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Youssef3082004&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef3082004&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
+ 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef3082004&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Youssef3082004&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Youssef3082004"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=Youssef3082004" />
+</picture>
