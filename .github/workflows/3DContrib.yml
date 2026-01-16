@@ -1,0 +1,28 @@
+name: generate 3d chart for profile contributions
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: push SVGs to the output-3d branch
+        uses: crazy-max/ghaction-github-pages@v4.2.0
+        with:
+          target_branch: output3d
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
