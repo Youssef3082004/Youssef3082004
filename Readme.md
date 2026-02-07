@@ -16,7 +16,7 @@
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About me
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About Me
 
 
 <picture> <img align="right" src="Developer_activity.gif" width = 250px></picture>
@@ -161,12 +161,22 @@
 <p align="left">
   📫 How to reach me: <strong>awadallayossef@gmail.com</strong>.
 </p>
-
 <p align="left">
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1qw8my1W7SsOBNF4pMnDEu4j7axp0MptF/view?usp=drive_link" target="_blank">Resume</a>
+  🤖 Know about my experiences as an 
+  <strong><span style="color:#ffffff;">AI Engineer:</span></strong>
+  <a href="https://drive.google.com/file/d/1O5L-oko7inDeToCyphnkyC5VTmIN2xKT/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
+<p align="left">
+  📱 Know about my experiences as a 
+  <strong><span style="color:#ffffff;">Cross-Platform App Developer</span></strong>:
+  <a href="https://drive.google.com/file/d/17uG7uPcT_qashmIq7M_2xM2HJdX0-scC/view?usp=sharing "target=_blank">Resume</a>
+</p>
+
+
+
 <br><br>
+
 
 
 ## <picture><img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif?raw=true" width=5% valign="bottom"></picture> My Profile Statistics
