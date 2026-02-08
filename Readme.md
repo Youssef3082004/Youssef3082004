@@ -170,7 +170,7 @@
 <p align="left">
   📱 Know about my experiences as a 
   <strong><span style="color:#ffffff;">Cross-Platform App Developer</span></strong>:
-  <a href="https://drive.google.com/file/d/17uG7uPcT_qashmIq7M_2xM2HJdX0-scC/view?usp=sharing "target=_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1z40v40ul2HLY7FV5qoqspfK_-fafkYDW/view?usp=sharing"target=_blank">Resume</a>
 </p>
 
 
