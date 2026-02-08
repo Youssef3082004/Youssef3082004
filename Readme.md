@@ -173,10 +173,6 @@
   <a href="https://drive.google.com/file/d/1z40v40ul2HLY7FV5qoqspfK_-fafkYDW/view?usp=sharing"target=_blank">Resume</a>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/snake.svg" alt="Snake animation" />
-
-
 <br><br>
 
 
@@ -195,3 +191,8 @@
     <img alt="User's 3D contribution graph" src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output3d/profile-south-season-animate.svg" />
   </picture>
 </div>
+
+<img src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/snake.svg" stroke="#2196F3"
+ alt="Snake animation" />
+
+
