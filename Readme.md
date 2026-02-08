@@ -174,6 +174,8 @@
 </p>
 
 
+<img src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/snake.svg" alt="Snake animation" />
+
 
 <br><br>
 
