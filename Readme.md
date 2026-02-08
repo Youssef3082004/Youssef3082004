@@ -192,7 +192,6 @@
   </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/snake.svg" stroke="#2196F3"
- alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/snake.svg" alt="Snake animation" />
 
 
