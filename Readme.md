@@ -141,24 +141,31 @@
 </a>
 
 <br><br>
-<h2 align="left">📝 My Projects and Contact Information</h2>
+<h2 align="left">📝 Connect & View CV</h2>
+
 <p align="left">
-  👨‍💻 All of my projects are available at <a href="https://github.com/Youssef3082004?tab=repositories">GitHub Repositories</a>.
+  📫 How to reach me: <strong>awadallayossef@gmail.com</strong>
 </p>
 
 <p align="left">
-  📫 How to reach me: <strong>awadallayossef@gmail.com</strong>.
-</p>
-<p align="left">
   🤖 Know about my experiences as an 
-  <strong><span style="color:#ffffff;">AI Engineer:</span></strong>
-  <a href="https://drive.google.com/file/d/1O5L-oko7inDeToCyphnkyC5VTmIN2xKT/view?usp=sharing" target="_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1O5L-oko7inDeToCyphnkyC5VTmIN2xKT/view?usp=sharing" target="_blank">
+    <strong>AI Engineer</strong>
+  </a>
 </p>
 
 <p align="left">
   📱 Know about my experiences as a 
-  <strong><span style="color:#ffffff;">Cross-Platform App Developer</span></strong>:
-  <a href="https://drive.google.com/file/d/1z40v40ul2HLY7FV5qoqspfK_-fafkYDW/view?usp=sharing"target=_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1z40v40ul2HLY7FV5qoqspfK_-fafkYDW/view?usp=sharing" target="_blank">
+    <strong>Cross-Platform App Developer</strong>
+  </a>
+</p>
+
+<p align="left">
+  👨‍💻 All of my projects are available at 
+  <a href="https://github.com/Youssef3082004?tab=repositories" target="_blank">
+    <strong>GitHub Repositories</strong>
+  </a>
 </p>
 
 <br><br>
