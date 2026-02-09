@@ -19,7 +19,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About Me
 
 
-<picture> <img align="right" src="Developer_activity.gif" width = 250px></picture>
+<picture> <img align="right" src="Working_from _anywhere.gif" width = 250px></picture>
 
 
 🏫 **I am an undergraduate student** at the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
@@ -76,81 +76,69 @@
 
 
 
-> ### 💻 Programming Languages
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
-</p>
-
-
-
-
-> ### 📊 Data Science & Machine Learning
-<p align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TensorFlow-ff7e00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" /> 
-</p>
-
-> ### 📚 NLP & Language Processing  
-<p align="center">
-<img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-</p>
-
-
-
-
-> ### 🌐 Backend & APIs
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> 
-
-</p>
-
-
-> ### 📱 Mobile & Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-
-<p align="center" style="margin-top: 0; padding-top: 0;">
-  <a href="https://flet.dev" target="_blank">
-    <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" alt="Flet Logo" height="40">
-  </a>
-</p>
-</p>
-
-
-
-> ### ☁️ Backend Services
-<p align="center">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> 
-
-</p>
-
-
-> ### 🗄️ Databases
-<p align="center">
-<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-</p>
-
-
-> ### 🛠️ Version Control
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /> 
-
-
-
-
-
-
+<a href="https://www.python.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python: Powerful & Versatile Programming Language" height="40" alt="python"/>
+</a>&nbsp;
+<a href="https://dart.dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart: Client-Optimized Language"/>
+</a>&nbsp;
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn: Machine Learning Library"/>
+</a>&nbsp;
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow: Deep Learning Framework"/>
+</a>&nbsp;
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy: Scientific Computing"/>
+</a>&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas: Data Analysis & Manipulation"/>
+</a>&nbsp;
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib: Static Plotting Library"/>
+</a>&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" title="Seaborn: Statistical Data Visualization"/>
+</a>
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" title="Hugging Face: The AI Community"/>
+</a>
+<a href="https://www.nltk.org/" target="_blank">
+  <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/nltk.png?raw=true" height="35" alt="NLTK" title="NLTK: Natural Language Toolkit"/>
+</a>&nbsp;
+<a href="https://spacy.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="40" alt="spaCy" title="spaCy: Industrial-Strength NLP"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI: High Performance Web Framework"/>
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter: Cross-Platform UI Toolkit"/>
+</a>&nbsp;
+<a href="https://www.android.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android Development"/>
+</a>&nbsp;
+<a href="https://flet.dev" target="_blank">
+  <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" height="40" alt="Flet" title="Flet: Flutter for Python"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase: App Development Platform"/>
+</a>&nbsp;
+<a href="https://supabase.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase: Open Source Backend"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite: Embedded Database"/>
+</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL: Relational Database"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git: Version Control System"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub: Code Hosting & Collaboration"/>
+</a>
 
 <br><br>
 <h2 align="left">📝 My Projects and Contact Information</h2>
