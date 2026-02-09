@@ -78,25 +78,25 @@
 
 <a href="https://www.python.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python: Powerful & Versatile Programming Language" height="40" alt="python"/>
-</a>
+</a>&nbsp;
 <a href="https://dart.dev" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart: Client-Optimized Language"/>
-</a>
+</a>&nbsp;
 <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn: Machine Learning Library"/>
-</a>
+</a>&nbsp;
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow: Deep Learning Framework"/>
-</a>
+</a>&nbsp;
 <a href="https://numpy.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy: Scientific Computing"/>
-</a>
+</a>&nbsp;
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas: Data Analysis & Manipulation"/>
-</a>
+</a>&nbsp;
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib: Static Plotting Library"/>
-</a>
+</a>&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" title="Seaborn: Statistical Data Visualization"/>
 </a>
@@ -105,7 +105,7 @@
 </a>
 <a href="https://www.nltk.org/" target="_blank">
   <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/nltk.png?raw=true" height="35" alt="NLTK" title="NLTK: Natural Language Toolkit"/>
-</a>
+</a>&nbsp;
 <a href="https://spacy.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="40" alt="spaCy" title="spaCy: Industrial-Strength NLP"/>
 </a>
@@ -114,22 +114,22 @@
 </a>
 <a href="https://flutter.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter: Cross-Platform UI Toolkit"/>
-</a>
+</a>&nbsp;
 <a href="https://www.android.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android Development"/>
-</a>
+</a>&nbsp;
 <a href="https://flet.dev" target="_blank">
   <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" height="40" alt="Flet" title="Flet: Flutter for Python"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase: App Development Platform"/>
-</a>
+</a>&nbsp;
 <a href="https://supabase.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase: Open Source Backend"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite: Embedded Database"/>
-</a>
+</a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL: Relational Database"/>
 </a>
