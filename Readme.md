@@ -190,3 +190,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef3082004&radius=16&theme=tokyo-night&area=true&hide_border=true&order=5" height="300" alt="Activity Graph" />
 </div>
 <img src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/snake.svg" alt="Snake animation" />
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/pacman-contribution-graph.svg">
+</picture>
