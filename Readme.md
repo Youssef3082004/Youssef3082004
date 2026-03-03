@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Awadalla&fontColor=ffffff&animation=fadeIn)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Youssef3082004&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 
 <p align="center">
@@ -41,15 +41,10 @@
 ## 🧠 My Coding Profiles
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/awadallayossef" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40" />
-</a>
-  <a href="https://www.leetcode.com/Youssef3082004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssefmustafa296" height="30" width="40" />
-</a>
-<a href="https://www.kaggle.com/youssef422129" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
+
+[![awadallayossef](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihackerrank&subtitle=awadallayossef&size=square)](https://www.hackerrank.com/profile/awadallayossef)
+[![Youssef3082004](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sileetcode&subtitle=Youssef3082004&size=square)](https://www.leetcode.com/Youssef3082004)
+[![Youssef4221296](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikaggle&subtitle=Youssef4221296&size=square)](https://www.kaggle.com/youssef422129)
 
 </p>
 
@@ -58,22 +53,16 @@
 ## 💬 My Social Media
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-awadalla-91a968284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefmustafa" height="30" width="40" />
-</a>
-  <a href="https://www.facebook.com/youssefawadalla232" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-  <a href="https://instagram.com/youssefawadalla232" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+
+[![Youssef Awadalla](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoussefawadalla&subtitle=Youssef+Awadalla&size=square)](https://www.linkedin.com/in/youssefawadalla) 
+[![Youssef Awadalla](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.facebook.com%2Fyoussefawadalla232&subtitle=Youssef+Awadalla&size=square)](https://www.facebook.com/youssefawadalla232)
+[![awadallayossef232](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fyoussefawadalla232&subtitle=awadallayossef232&size=square)](https://instagram.com/youssefawadalla232)
+
 </p>
 
 <br>
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg460bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
-
-
 
 
 <a href="https://www.python.org" target="_blank">
