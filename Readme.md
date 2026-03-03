@@ -1,5 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Youssef3082004&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-
+![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Awadalla&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -40,25 +39,25 @@
 
 ## 🧠 My Coding Profiles
 
-<p align="center">
+<div align="center">
 
 [![awadallayossef](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihackerrank&subtitle=awadallayossef&size=square)](https://www.hackerrank.com/profile/awadallayossef)
 [![Youssef3082004](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sileetcode&subtitle=Youssef3082004&size=square)](https://www.leetcode.com/Youssef3082004)
-[![Youssef4221296](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikaggle&subtitle=Youssef4221296&size=square)](https://www.kaggle.com/youssef422129)
+[![Youssef4221296](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikaggle&subtitle=Youssef422129&size=square)](https://www.kaggle.com/youssef422129)
 
-</p>
+</div>
 
 <br>
 
 ## 💬 My Social Media
 
-<p align="center">
+<div align="center">
 
 [![Youssef Awadalla](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoussefawadalla&subtitle=Youssef+Awadalla&size=square)](https://www.linkedin.com/in/youssefawadalla) 
 [![Youssef Awadalla](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.facebook.com%2Fyoussefawadalla232&subtitle=Youssef+Awadalla&size=square)](https://www.facebook.com/youssefawadalla232)
 [![awadallayossef232](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fyoussefawadalla232&subtitle=awadallayossef232&size=square)](https://instagram.com/youssefawadalla232)
 
-</p>
+</div>
 
 <br>
 
