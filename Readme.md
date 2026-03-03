@@ -43,6 +43,7 @@
 
 [![awadallayossef](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihackerrank&subtitle=awadallayossef&size=square)](https://www.hackerrank.com/profile/awadallayossef)
 [![Youssef3082004](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sileetcode&subtitle=Youssef3082004&size=square)](https://www.leetcode.com/Youssef3082004)
+[![awadallayossef](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicodeforces&subtitle=awadallayossef&size=square)](https://codeforces.com/profile/awadallayossef)
 [![Youssef4221296](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikaggle&subtitle=Youssef422129&size=square)](https://www.kaggle.com/youssef422129)
 
 </div>
