@@ -1,6 +1,7 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Awadalla&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Specialist;Croos+-+App+platform+developer;" alt="Typing SVG" />
   </a>
@@ -65,7 +66,31 @@
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg460bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
 
 <div align="center">  
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python: Powerful & Versatile Programming Language" height="40" width="40" alt="python"/></a><a href="https://dart.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="Dart" title="Dart: Client-Optimized Language"/></a><a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" width="40" alt="Scikit-Learn" title="Scikit-Learn: Machine Learning Library"/></a><a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" title="TensorFlow: Deep Learning Framework"/></a><a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="Pytorch" title="Pytorch: Deep Learning Framework"/></a><a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" width="40" title="NumPy: Scientific Computing"/></a><a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" width="40" title="Pandas: Data Analysis & Manipulation"/></a><a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" width="40" title="Matplotlib: Static Plotting Library"/></a><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" alt="Seaborn" title="Seaborn: Statistical Data Visualization"/></a><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" alt="HuggingFace" title="Hugging Face: The AI Community"/></a><a href="https://www.nltk.org/" target="_blank"><img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/nltk.png?raw=true" height="40" alt="NLTK" title="NLTK: Natural Language Toolkit"/></a><a href="https://spacy.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="40" alt="spaCy" width="60" title="spaCy: Industrial-Strength NLP"/></a><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" title="FastAPI: High Performance Web Framework"/></a><a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" width="40" title="Flutter: Cross-Platform UI Toolkit"/></a><a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" width="40" title="Android Development"/></a><a href="https://flet.dev" target="_blank"><img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" height="40" alt="Flet" title="Flet: Flutter for Python"/></a><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" width="40" title="Firebase: App Development Platform"/></a><a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" width="40" alt="Supabase" title="Supabase: Open Source Backend"/></a><a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" alt="SQLite" title="SQLite: Embedded Database"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" title="MySQL: Relational Database"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git: Version Control System"/></a><a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" title="GitHub: Code Hosting & Collaboration"/></a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code: Code Editor"/></a><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter" title="Jupyter"/></a>
+  
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python: Powerful & Versatile Programming Language" height="40" width="40" alt="python"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="Dart" title="Dart: Client-Optimized Language"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" width="40" alt="Scikit-Learn" title="Scikit-Learn: Machine Learning Library"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" title="TensorFlow: Deep Learning Framework"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="Pytorch" title="Pytorch: Deep Learning Framework"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" width="40" title="NumPy: Scientific Computing"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" width="40" title="Pandas: Data Analysis & Manipulation"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" width="40" title="Matplotlib: Static Plotting Library"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" alt="Seaborn" title="Seaborn: Statistical Data Visualization"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" alt="HuggingFace" title="Hugging Face: The AI Community"/></a>
+  <a href="https://www.nltk.org/" target="_blank"><img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/nltk.png?raw=true" height="40" alt="NLTK" title="NLTK: Natural Language Toolkit"/></a>
+  <a href="https://spacy.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="40" alt="spaCy" width="60" title="spaCy: Industrial-Strength NLP"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" title="FastAPI: High Performance Web Framework"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" width="40" title="Flutter: Cross-Platform UI Toolkit"/></a>
+  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" width="40" title="Android Development"/></a>
+  <a href="https://flet.dev" target="_blank"><img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" height="40" alt="Flet" title="Flet: Flutter for Python"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" width="40" title="Firebase: App Development Platform"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" width="40" alt="Supabase" title="Supabase: Open Source Backend"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" alt="SQLite" title="SQLite: Embedded Database"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" title="MySQL: Relational Database"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git: Version Control System"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" title="GitHub: Code Hosting & Collaboration"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code: Code Editor"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter" title="Jupyter"/></a>
 </div>
 
 <h2 align="left">📝 Connect & View CV</h2>
@@ -76,6 +101,7 @@
 
 <p align="left">
   🤖 Know about my experiences as an 
+  
   <a href="https://drive.google.com/file/d/1O5L-oko7inDeToCyphnkyC5VTmIN2xKT/view?usp=sharing" target="_blank">
     <strong>AI Engineer</strong>
   </a>
@@ -83,6 +109,7 @@
 
 <p align="left">
   📱 Know about my experiences as a 
+  
   <a href="https://drive.google.com/file/d/1z40v40ul2HLY7FV5qoqspfK_-fafkYDW/view?usp=sharing" target="_blank">
     <strong>Cross-Platform App Developer</strong>
   </a>
@@ -90,6 +117,7 @@
 
 <p align="left">
   👨‍💻 All of my projects are available at 
+  
   <a href="https://github.com/Youssef3082004?tab=repositories" target="_blank">
     <strong>GitHub Repositories</strong>
   </a>
