@@ -64,7 +64,7 @@
 <br>
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg460bl&rid=giphy.gif?raw=true" width ="3%"></picture> My Tech Stack & Skills
-<div align="center"> 
+<div align="left"> 
   
   <h3>🚀 Programming Languages</h3>
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python: Powerful & Versatile Programming Language" height="40" width="40" alt="python"/></a>
