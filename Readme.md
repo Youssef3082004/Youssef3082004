@@ -80,7 +80,7 @@
     <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" alt="Seaborn" title="Seaborn: Statistical Data Visualization"/></a>
   </p>
 
-  <h3>🧠 Machine Learning & NLP</h3>
+  <h3>🧠 AI & Machine Learning</h3>
   <p align="center">
     <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" width="40" alt="Scikit-Learn" title="Scikit-Learn: Machine Learning Library"/></a>&nbsp;
     <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" title="TensorFlow: Deep Learning Framework"/></a>&nbsp;
@@ -90,7 +90,7 @@
     <a href="https://spacy.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="40" alt="spaCy" width="60" title="spaCy: Industrial-Strength NLP"/></a>
   </p>
 
-  <h3>📱 App & Web Development</h3>
+  <h3>📱 App Development</h3>
   <p align="center">
     <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" title="FastAPI: High Performance Web Framework"/></a>&nbsp;
     <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" width="40" title="Flutter: Cross-Platform UI Toolkit"/></a>&nbsp;
