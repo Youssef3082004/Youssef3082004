@@ -125,7 +125,7 @@
 <p align="left">
   🤖 Know about my experiences as an 
   
-  <a href="https://drive.google.com/file/d/1O5L-oko7inDeToCyphnkyC5VTmIN2xKT/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1vFpDKJYUcpT85Hw2PfqJCqEfOfE4QOW9/view?usp=sharing" target="_blank">
     <strong>AI Engineer</strong>
   </a>
 </p>
