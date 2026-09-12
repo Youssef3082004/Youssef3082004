@@ -3,7 +3,7 @@
 <p align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Specialist;Croos+-+App+platform+developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;NLP+%26+Agentic+AI+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,27 +13,50 @@
   <img src="https://komarev.com/ghpvc/?username=Youssef3082004&label=Profile%20views&color=3362cc&style=for-the-badge" alt="Youssef3082004" />
 </p>
 
+## 🌟 Lumeria: Egypt Beyond Time
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=app.lumeria.egypt" target="_blank">
+    <img src="assets/Black.png" alt="Lumeria Logo" width="200">
+  </a>
+</div>
+
+<br>
+
+> **Lumeria** is a smart mobile application designed to be your ultimate companion for exploring Egypt. It brings historical sites to life and provides tourists with an interactive, personalized, and unforgettable travel experience.
+
+### ✨ What Lumeria Offers
+
+* **Instant Landmark Recognition:** Simply point your camera at historical monuments to instantly discover their history and cultural significance.
+* **Smart Travel Assistant:** Chat with an intelligent virtual guide ready to answer all your questions about Egyptian history in real-time.
+* **Hieroglyphic Translator:** Unlock the secrets of the past by translating ancient hieroglyphics directly from the walls into modern text.
+* **Augmented Reality & 3D:** Bring history into your world with interactive AR and 3D models of ancient Pharaohs and artifacts.
+* **Personalized Recommendations:** Discover the best places to visit, tailored specifically to your unique interests and travel style.
+
+<br>
+
+<div align="center">
+  <h3>Start Your Journey</h3>
+  <a href="https://play.google.com/store/apps/details?id=app.lumeria.egypt" target="_blank">
+    <img src="assets/google-play-badge-logo.png" alt="Get it on Google Play" width="200">
+  </a>
+</div>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> What About Me ? 
 
 
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About Me
-
-
-<picture> <img align="right" src="Working_from _anywhere.gif" width = 250px></picture>
+<picture> <img align="right" src="assets/Working_from _anywhere.gif" width = 250px></picture>
 
 
-🏫 **I am an undergraduate student** at the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
+🧠 **AI Engineer** specializing in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Agentic AI**.  
 
-📚 Specializing in **Machine Learning**, **NLP** and **Developing Cross-Platform Apps**  
+🚀 **Core Developer of Lumeria**, an innovative AI-powered application for Egyptian tourism. I'm one of the developers behind this project and am actively continuing to build and enhance its features.
 
-🤖 Driven by a strong interest in exploring and utilizing AI technologies to develop smart solutions for practical challenges.  
+🤖 Driven by a strong interest in engineering autonomous agents and scalable AI architectures to develop smart solutions for real-world challenges.  
 
-💡 Always eager to expand my knowledge and keep up with the latest breakthroughs in these ever-evolving fields. 
+💡 Continuously expanding my expertise in cutting-edge AI research, NLP, and Agentic AI
 
-🚀 Enthusiastic about leveraging AI to build innovative and meaningful applications across various platforms.
-
-
-🌐 More about me in [**Portfolio**](https://youssef-gamal-awadalla-v1oj9cu.gamma.site/)
+🌐 Discover more of my work in my [**Professional Portfolio**](https://youssef-gamal-awadalla-v1oj9cu.gamma.site/)
 
 <br>
 
@@ -71,6 +94,13 @@
 <a href="https://dart.dev" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width ="40" alt="Dart" title="Dart: Client-Optimized Language"/>
 </a>
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="assets/langsmith-color.png"
+  height="50"width="50"alt="LangChain"title="LangChain: Framework for LLM Applications"/>
+</a>
+<a href="https://www.langchain.com/langgraph" target="_blank">
+  <img src="assets/langgraph.png"height="50"width="50"alt="LangGraph"title="LangGraph"/>
+</a>
 <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" width ="40" alt="Scikit-Learn" title="Scikit-Learn: Machine Learning Library"/>
 </a>
@@ -96,7 +126,7 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width ="40" alt="HuggingFace" title="Hugging Face: The AI Community"/>
 </a>
 <a href="https://www.nltk.org/" target="_blank">
-  <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/nltk.png?raw=true" height="40" alt="NLTK"  title="NLTK: Natural Language Toolkit"/>
+  <img src="assets/nltk.png" height="40" alt="NLTK"  title="NLTK: Natural Language Toolkit"/>
 </a>
 <a href="https://spacy.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="40" alt="spaCy" width ="60" title="spaCy: Industrial-Strength NLP"/>
@@ -111,7 +141,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" width ="40" title="Android Development"/>
 </a>
 <a href="https://flet.dev" target="_blank">
-  <img src="https://github.com/Youssef3082004/Youssef3082004/blob/main/flet.png?raw=true" height="40" alt="Flet" title="Flet: Flutter for Python"/>
+  <img src="assets/flet.png" height="40" alt="Flet" title="Flet: Flutter for Python"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" width ="40"title="Firebase: App Development Platform"/>
@@ -154,14 +184,6 @@
 </p>
 
 <p align="left">
-  📱 Know about my experiences as a 
-  
-  <a href="https://drive.google.com/file/d/1z40v40ul2HLY7FV5qoqspfK_-fafkYDW/view?usp=sharing" target="_blank">
-    <strong>Cross-Platform App Developer</strong>
-  </a>
-</p>
-
-<p align="left">
   👨‍💻 All of my projects are available at 
   
   <a href="https://github.com/Youssef3082004?tab=repositories" target="_blank">
@@ -192,7 +214,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Youssef3082004/Youssef3082004/output/pacman-contribution-graph.svg">
 </picture>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef3082004&radius=16&theme=tokyo-night&area=true&hide_border=true&order=5" height="300" alt="Activity Graph" />
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
