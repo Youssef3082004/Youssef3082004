@@ -1,12 +1,10 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Youssef%20Awadalla&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;NLP+%26+Agentic+AI+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=impact&size=30&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;NLP+%26+Agentic+AI+Specialist" alt="Typing SVG" />
   </a>
 </p>
-
 
 
 <p align="center">
