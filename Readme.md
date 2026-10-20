@@ -54,7 +54,7 @@
 
 💡 Continuously expanding my expertise in cutting-edge AI research, NLP, and Agentic AI
 
-🌐 Discover more of my work in my [**Professional Portfolio**](https://youssef-gamal-awadalla-v1oj9cu.gamma.site/)
+🌐 Discover more of my work in my [**Professional Portfolio**](https://portfolio-cb08b9ab.fastapicloud.dev/)
 
 <br>
 
@@ -89,8 +89,8 @@
 <a href="https://www.python.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python: Powerful & Versatile Programming Language" height="40" width ="40" alt="python"/>
 </a>
-<a href="https://dart.dev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width ="40" alt="Dart" title="Dart: Client-Optimized Language"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="Bash" title="Bash"/>
 </a>
 <a href="https://www.langchain.com/" target="_blank">
   <img src="assets/langsmith-color.png"
@@ -104,9 +104,6 @@
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width ="40" alt="TensorFlow" title="TensorFlow: Deep Learning Framework"/>
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width ="40" alt="Pytorch" title="Pytorch: Deep Learning Framework"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" width ="40" title="NumPy: Scientific Computing"/>
@@ -132,18 +129,6 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width ="40" alt="FastAPI" title="FastAPI: High Performance Web Framework"/>
 </a>
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" width ="40" title="Flutter: Cross-Platform UI Toolkit"/>
-</a>
-<a href="https://www.android.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" width ="40" title="Android Development"/>
-</a>
-<a href="https://flet.dev" target="_blank">
-  <img src="assets/flet.png" height="40" alt="Flet" title="Flet: Flutter for Python"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" width ="40"title="Firebase: App Development Platform"/>
-</a>
 <a href="https://supabase.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" width ="40" alt="Supabase"  title="Supabase: Open Source Backend"/>
 </a>
@@ -153,19 +138,27 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width ="40" alt="MySQL" title="MySQL: Relational Database"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+</a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width ="40" alt="Git" title="Git: Version Control System"/>
 </a>
 <a href="https://github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width ="40" alt="GitHub" title="GitHub: Code Hosting & Collaboration"/>
 </a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width ="40" alt="VS Code" title="VS Code: Code Editor"/>
+<a href="https://about.gitlab.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="GitLab" title="GitLab"/>
 </a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width ="40" alt="Jupyter" title="Jupyter"/>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" title="Docker"/>
 </a>
-
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" title="Linux"/>
+</a>
+<a href="https://flet.dev" target="_blank">
+  <img src="assets/flet.png" height="40" alt="Flet" title="Flet: Flutter for Python"/>
+</a>
 
 <h2 align="left">📝 Connect & View CV</h2>
 
